@@ -1,0 +1,4 @@
+# rubikkocka
+* rubik 
+* kocka
+* akármi
